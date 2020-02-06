@@ -1,0 +1,37 @@
+{
+  "name": "sight-saber",
+  "version": "0.1.0",
+  "description": "SightSaber: A Haptic Infrared Light Saber for Visual Support",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "tag": "git"
+  },
+  "bin": {},
+  "keywords": [
+    "TinyCircuits",
+    "TinyZero",
+    "Time-of-flight",
+    "TOF",
+    "Blind",
+    "Visual Support",
+    "Infrared Laser",
+    "Haptic",
+    "3-Axis accelerometer", 
+    "Atmel ATSAMD21G18A",
+    "OMilli",
+    "Light Saber",
+    "Arduino"
+  ],
+  "author": "Karl Lew",
+  "homepage": "https://github.com/tiny-kits/sight-saber",
+  "license": "MIT"
+}
